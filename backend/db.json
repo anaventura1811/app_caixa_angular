@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Macbook Pro",
+      "price": 14000.9
+    },
+    {
+      "id": 3,
+      "name": "Notebook Macbook Air",
+      "price": 8000
+    },
+    {
+      "id": 4,
+      "name": "Mousepad",
+      "price": 45.9
+    },
+    {
+      "id": 5,
+      "name": "Luminária",
+      "price": 179.9
+    },
+    {
+      "name": "Smartphone Samsung Galaxy",
+      "price": 4500.00,
+      "id": 6
+    },
+    {
+      "name": "iPhone X",
+      "price": 10000.00,
+      "id": 7
+    }
+  ]
+}
