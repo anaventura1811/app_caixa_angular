@@ -1,0 +1,3 @@
+[submodule "frontend_angular"]
+	path = frontend_angular
+	url = git@github.com:anaventura1811/frontend_angular.git
